@@ -1,5 +1,3 @@
-from typing import Union
-
 
 def get_mask_card_number(number_card: str) -> str:
     """Функция, принимает на вход номер карты в виде числа
